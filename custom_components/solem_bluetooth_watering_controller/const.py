@@ -16,7 +16,8 @@ MONTHS = [
     "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
 ]
 
-CHARACTERISTIC_UUID = "108b0002-eab5-bc09-d0ea-0b8f467ce8ee"
+#CHARACTERISTIC_UUID = "108b0002-eab5-bc09-d0ea-0b8f467ce8ee"
+CHARACTERISTIC_UUID = "2fc20002-a5eb-4a8f-8ee2-7075ffce4f5f"
 BLUETOOTH_TIMEOUT = "bluetooth_timeout"
 BLUETOOTH_MIN_TIMEOUT = 5
 BLUETOOTH_DEFAULT_TIMEOUT = 15
